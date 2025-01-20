@@ -5,4 +5,8 @@
 body {
   margin: 0;
   background-color: #09090b;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }

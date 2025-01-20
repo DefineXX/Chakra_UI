@@ -1,5 +1,11 @@
+import RatingCustom from './components/Rating/RatingCustom';
+
 function App() {
-  return <></>;
+  return (
+    <>
+      <RatingCustom />
+    </>
+  );
 }
 
 export default App;
