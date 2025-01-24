@@ -5,6 +5,11 @@
 body {
   margin: 0;
   background-color: #09090b;
+}
+
+.top-container {
+  width: 100vw;
+  height: 100vh;
 
   display: flex;
   justify-content: center;

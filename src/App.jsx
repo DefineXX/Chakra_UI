@@ -1,10 +1,12 @@
-import RatingCustom from './components/Rating/RatingCustom';
+import ChakraTextarea from './components/Textarea/Textarea';
+
+import './index.css';
 
 function App() {
   return (
-    <>
-      <RatingCustom />
-    </>
+    <div className="top-container">
+      <ChakraTextarea />
+    </div>
   );
 }
 
